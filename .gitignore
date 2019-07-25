@@ -1,0 +1,10 @@
+.pyc
+debug.py
+migrations
+env
+.log
+.idea
+__pycache__
+recent.log
+media/
+ch.log
